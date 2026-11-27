@@ -22,7 +22,7 @@ This plugin depends on common POSIX utilities (awk, grep, sed, etc.), Bash, Git,
 Plugin:
 
 ```shell
-asdf plugin add protoc-gen-connect-go https://github.com/dylanrayboss/asdf-protoc-gen-connect-go.git
+asdf plugin add protoc-gen-connect-go https://github.com/ArshAulakh59/asdf-protoc-gen-connect-go.git
 ```
 
 protoc-gen-connect-go:
